@@ -12,10 +12,25 @@
 }
 
 .about-bg {
-  padding: 100px;
+  padding: 70px;
+  background-color: #ffffe6;
+}
+
+.about-bg p{
   background-color: #ffffe6;
   font-family: 'Raleway';
   font-size: 18px;
+}
+
+.smart-btn{
+  padding:40px;
+}
+
+.smart-chart {
+  background-color: #CCCCFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .my-video {
